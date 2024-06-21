@@ -16,7 +16,7 @@
 
 #### Prerequisites
 
-![prerequisites](AWS/UNDERSTANDING_VPC.png)
+![prerequisites](AWS/PREREQUISITES.png)
 
 ## Author
 - Twitter: [@kaissssssss08](https://twitter.com/kaissssssss08)
