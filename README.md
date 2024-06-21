@@ -12,7 +12,7 @@
 
  #### Understanding VPC
 
-![Understanding VPC](AWS/UNDERSTANDING_VPC.png)
+![understanding](AWS/UNDERSTANDING_VPC.png)
 
 #### Prerequisites
 
