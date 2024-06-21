@@ -1,6 +1,6 @@
 # Amazon Web Service VPC cheatsheet
  I have generated some handmade AWS Virtual Private Cloud cheat sheets, which can be printed.
- YOu can find [Handmade](#handmade) ones below with [Architecture](#architecture), [Understanding VPC](#understandingVPC) and [Prerequites](#prerequisites)
+ YOu can find [Handmade](#handmade) ones below with [Architectures](#architecture), [Understanding VPC](#understandingVPC) and [Prerequites](#prerequisites)
 
  ## Handmake
 
